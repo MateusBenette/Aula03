@@ -15,8 +15,9 @@ public class OperadorE {
 		if (usuario .equals("Administrador") && senha.equals("123")) {
 			System.out.println("Login autorizado");
 		}else {
-			System.out.println("Usuaário ou senha incorretos");
+			System.out.println("Usuário ou senha incorretos");
 		}
+		
 		
 		
 		
